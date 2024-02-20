@@ -83,6 +83,10 @@
   <standardAttributes>
     <dataHistory>Use</dataHistory>
     <name>Description</name>
+    <synonym>
+      <key>ru</key>
+      <value>ФИО</value>
+    </synonym>
     <fillValue xsi:type="core:UndefinedValue"/>
     <fillChecking>ShowError</fillChecking>
     <fullTextSearch>Use</fullTextSearch>
@@ -108,7 +112,7 @@
   <foldersOnTop>true</foldersOnTop>
   <owners>Catalog.Контрагенты</owners>
   <codeLength>9</codeLength>
-  <descriptionLength>25</descriptionLength>
+  <descriptionLength>150</descriptionLength>
   <codeType>String</codeType>
   <codeAllowedLength>Variable</codeAllowedLength>
   <checkUnique>true</checkUnique>
